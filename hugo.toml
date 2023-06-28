@@ -1,0 +1,48 @@
+baseURL = "https://carterdempsey.com/"
+languageCode = "en-us"
+title = "Carter Dempsey"
+theme = "PaperMod"
+enableEmoji = true
+
+[params]
+defaultTheme = "dark"
+hideFooter = true
+
+  [params.profileMode]
+  enabled = true
+  title = "Hi, I'm Carter. 👋 "
+  subtitle = "Network Engineer in Colorado, USA"
+  imageUrl = "/Home/headshot.jpg"
+  imageTitle = "headshot.png"
+  imageWidth = 120
+  imageHeight = 120
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/carterdemp"
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "https://youtube.com/@carterdempsey"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/carterdempsey"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 30
