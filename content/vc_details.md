@@ -2,7 +2,6 @@
 layout: "single"
 url: "/vc_details/"
 summary: contact info for vc meetings
-hideFooter: false
 ShowCodeCopyButtons: true
 robotsNoIndex: true
 ---

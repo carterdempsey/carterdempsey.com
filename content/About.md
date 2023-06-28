@@ -3,7 +3,6 @@ title: "Hi, I'm Carter! 👋"
 layout: "single"
 url: "/about/"
 summary: about
-hideFooter: false
 ShowToc: true
 TocOpen: false
 ---

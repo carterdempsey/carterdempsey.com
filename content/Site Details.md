@@ -3,7 +3,6 @@ title: "Details about carterdempsey.com"
 layout: "single"
 url: "/details/"
 summary: details
-hideFooter: false
 ---
 
 ## Development
