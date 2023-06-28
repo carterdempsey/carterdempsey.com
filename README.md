@@ -1,1 +1,2 @@
-# carterdempsey
+# carterdempsey.com
+This site was created using the [Hugo](https://gohugo.io/) framework and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. The site's code can be found on my Github, [here](https://github.com/carterdempsey/carterdempsey.com). 
