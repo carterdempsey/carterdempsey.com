@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Carter Dempsey</title>
+    <link>https://carterdempsey.com/projects/</link>
+    <description>Recent content in Projects on Carter Dempsey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://carterdempsey.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updating a UCS C240 M4&#39;s CIMC from outdated Flash CIMC</title>
+      <link>https://carterdempsey.com/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carterdempsey.com/projects/project1/</guid>
+      <description>Coming Soon! </description>
+    </item>
+    
+  </channel>
+</rss>
