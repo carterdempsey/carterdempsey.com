@@ -5,7 +5,8 @@ url: "/contact/"
 summary: contact
 ShowCodeCopyButtons: true
 ---
-The best way to contact me is through Twitter or email. 
+The best way to contact me is through email. 
 
-My email address is  `hello (a) carterdempsey (.) com`
+My email address is  `howdy (a) carterdempsey (.) com`
 
+Curious about my social media handles? See [here](/details)!
