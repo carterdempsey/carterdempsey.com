@@ -9,4 +9,4 @@ The best way to contact me is through email.
 
 My email address is  `howdy (a) carterdempsey (.) com`
 
-Curious about my social media handles? See [here](/details)!
+Curious about my social media handles? See [here](/details).
