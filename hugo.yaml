@@ -1,0 +1,38 @@
+baseURL: https://carterdempsey.com/
+languageCode: en-us
+title: Carter Dempsey
+theme: PaperMod
+DateFormat: "January 2, 2006"
+copyright: "© 2025 Carter Dempsey | [Site Details](/details/)"
+caches:
+  images:
+    dir: :cacheDir/images
+params:
+  profileMode:
+    enabled: true
+    title: "Carter Dempsey"
+    subtitle: "Network Engineer in Colorado, USA"
+    imageUrl: images/headshot.png
+    imageTitle: "Headshot"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/carterdempsey"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/carterdempsey/"
+    - name: "youtube"
+      url: "https://www.youtube.com/carterdempsey"
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 30
