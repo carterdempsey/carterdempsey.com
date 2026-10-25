@@ -1,9 +1,9 @@
 baseURL: https://carterdempsey.com/
-languageCode: en-us
+locale: en-us
 title: Carter Dempsey
 theme: PaperMod
 DateFormat: "January 2, 2006"
-copyright: "© 2025 Carter Dempsey | [Site Details](/details/)"
+copyright: "© 2026 Carter Dempsey | [Site Details](/details/)"
 caches:
   images:
     dir: :cacheDir/images

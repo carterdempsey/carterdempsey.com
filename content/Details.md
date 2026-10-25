@@ -6,7 +6,7 @@ summary: details
 ---
 
 ## Domains
-Below are a list of sites that I own and may link to. Any others are not me. 
+Below are a list of sites that I own and may link to.
 - carterdempsey.com
 - carterdemp.com
 - crtrdmpsy.com

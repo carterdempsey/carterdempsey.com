@@ -8,8 +8,9 @@ TocOpen: false
 ---
 ## Work Experience 💼 
 **City and County of Denver**
-
-> *Network Engineer*, July 2023 - Present
+> *Senior Network Engineer*, Sept 2026 - Present
+> 
+> *Network Engineer*, July 2023 - Sept 2026
 
 **Akerman, LLP**
 
@@ -25,11 +26,11 @@ TocOpen: false
 
 **Oregon State University** 
 
-> *Bachelor of Science in Computer Science*, Expected Spring 2027
+> *Bachelor of Science in Computer Science*, Expected September 2027
 
 **Seminole State College of Florida** 
 
-> *Bachelor of Science in Information Systems Technology*, Spring 2021
+> *Bachelor of Science in Information Systems Technology*, May 2021
 
 **Active Certifications**
 
@@ -37,7 +38,7 @@ TocOpen: false
 - CompTIA Security+
 
 ## Outside of tech... 🏔️
-I love camping & hiking through the rockies of Colorado, all things space, urban planning, and global domination on Civilization. 
+I love exploring Rockies, all things space, and global domination on Civilization. 
 
 ## What's next... 🔮
-I am a Computer Science student at Oregon State University and working on additional certifications like the CCNP to expand my skill set. Take a peak at my socials to follow along with my progress.
+I am a computer science student at Oregon State University and working on additional certifications like the CCNP to expand my skill set. Take a peak at my socials to follow along with my progress.
